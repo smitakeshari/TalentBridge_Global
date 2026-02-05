@@ -1,7 +1,7 @@
 import React from 'react';
 
 const sectors = [
-  { name: "IT & Technology", details: "Software Development, QA, Data Science, Gen AI, Infra Mgt., Security Operations, Service Desk" },
+  { name: "IT & Technology", details: "Software Development, QA, Data Science, AI/ML, Gen AI, IOT, Infra Mgt., Security Operations, Service Desk" },
   { name: "Sales & Business Dev", details: "Revenue growth talent and strategic account management." },
   { name: "Operations & Support", details: "Service delivery excellence and back-office optimization." },
   { name: "Finance & HR", details: "Corporate functions and executive leadership placement." },

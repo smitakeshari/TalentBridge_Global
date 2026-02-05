@@ -26,16 +26,22 @@ export default function ServicesPage() {
       icon: "📊",
     },
     {
+      title: "Campus and Off-Campus Placement",
+      description:
+        "Placement assistance for both campus and off-campus candidates.",
+      icon: "💼",
+    },
+    {
       title: "Bulk & Lateral Hiring",
       description:
         "Large-scale workforce expansion and mid-career transitions.",
       icon: "🎯",
     },
     {
-      title: "Campus and Off-Campus Placement",
+      title: "Tech & Resource Deployment Partners",
       description:
-        "Placement assistance for both campus and off-campus candidates.",
-      icon: "💼",
+        "We collaborate with trusted technology and consulting partners with ready-to-deploy skilled teams, supporting fast and seamless execution for global client engagements across regions.",
+      icon: "💻",
     },
     {
       title: "Dedicated Support",
