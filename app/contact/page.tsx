@@ -84,7 +84,7 @@ export default function ContactPage() {
                       href="tel:+1234567890"
                       className="text-zinc-600 transition-colors hover:text-foreground dark:text-zinc-400 dark:hover:text-zinc-50"
                     >
-                      +91 8007866214
+                      +91 9112006214
                     </a>
                   </div>
                 </div>
